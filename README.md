@@ -47,6 +47,12 @@ Você pode visualizar o layout do projeto através [DESSE LINK]
 
 <br>
 
+## 🧠 Aprendizado
+
+Nesse projeto tive a oportunidade de um contato mais profundo com as tecnologias front-end.
+
+<br>
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT.
